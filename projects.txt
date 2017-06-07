@@ -1,0 +1,26 @@
+Project Ideas
+These notes are loose and are only meant to serve to stimulate (:D?) your mind. If you have suggestions for other things that we IT PLFs could do, or that STIMulate could do as a whole then please add! I’m thinking these projects would be undertaken either over the mid-year break or next semester. In terms of compensation, we have been discussing either payment or an undergraduate project where you will receive a grade from a supervising lecturer. Either way, by working on these projects you are both honing your IT skills and growing your personal portfolio.
+
+Queue system for drop in students
+Develop a First In First Out (FIFO) system for queuing students.
+
+Barcode scanning with a smartphone app
+Scan students’ ID cards to conveniently record sessions between PLFs and students. 
+
+Migration of web services
+Migrate the STIMulate website from QUT Services to our own website (not sure if I remember this one correctly)
+
+STIMulate app
+Mobile app version of the STIMulate webs services for PLFs. For students too maybe?
+
+Data Visualization
+Provide visualizations of various STIMulate data; Not only out of interest but to also help make Ian’s life a bit easier (and Laurence’s)
+
+Git Repository with sample/test scripts
+Like the math stream has worksheets with examples etc. it was suggested that something similar be made for the IT stream. This would be housed on git (here for the moment: https://github.com/scorpioncoder/Git-STIMulated) where any IT plf can add/change it. (if you would like to be added as a contributor please pm me directly at :https://www.facebook.com/alex.barnier.5 )
+
+Sign In/Out for PLFs
+To add to the barcode scanners, perhaps you can use those for signing in and out of PLFs, effectively acting as a replacement for logging shifts on the website.
+ 
+Review of Hours (not significant enough for a project unit)
+Section of the STIMulate website to allow PLF’s/Duty Hosts to see all the hours they have logged so far (to see if they have missed any).
