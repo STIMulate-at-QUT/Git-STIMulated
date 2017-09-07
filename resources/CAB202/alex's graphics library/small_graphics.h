@@ -25,4 +25,6 @@ void draw_int_small(unsigned char x, unsigned char y, int value);
 
 void draw_float_small(unsigned char x, unsigned y, float value);
 
+void draw_formatted_small( int x, int y, const char * format, ... );
+
 #endif /* SMALL_GRAPHICS_H_ */
